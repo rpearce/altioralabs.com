@@ -1,0 +1,11 @@
+{
+  "name": "altioralabs.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rpearce/altioralabs.com.git",
+  "author": "Robert Pearce <me@robertwpearce.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "favicon-emoji": "^1.0.4"
+  }
+}
