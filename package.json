@@ -6,6 +6,6 @@
   "author": "Robert Pearce <me@robertwpearce.com>",
   "license": "MIT",
   "devDependencies": {
-    "favicon-emoji": "^1.0.4"
+    "favicon-emoji": "^2.3.0"
   }
 }
